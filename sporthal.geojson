@@ -1,0 +1,1282 @@
+{"type":"FeatureCollection","features":[
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Extra-time",
+      "straat":"Louisalei",
+      "huisnummer":"24",
+      "postcode":"2660",
+      "district":"Hoboken",
+    },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.34628961599841,51.17807898741795]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "1130", "Finish": "1900" }]
+      },
+      {
+        "dinsdag":[]
+      },
+      {
+        "woensdag":[{ "Start": "1130", "Finish": "2000" }]
+      },
+      {
+        "donderdag":[{ "Start": "1130", "Finish": "2000" }]
+      },
+      {
+        "vrijdag":[{ "Start": "1130", "Finish": "2000" }]
+      },
+      {
+        "zaterdag":[{ "Start": "1030", "Finish": "2000" }]
+      },
+      {
+        "zondag":[{ "Start": "1030", "Finish": "2000" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Sporthal Kiel",
+      "straat":"Emiel Vloorsstraat",
+      "huisnummer":" ",
+      "postcode":"2020",
+      "district":"Antwerpen",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.378546996893355,51.194600872138714]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "1130", "Finish": "1900" }]
+      },
+      {
+        "dinsdag":[]
+      },
+      {
+        "woensdag":[{ "Start": "1130", "Finish": "2000" }]
+      },
+      {
+        "donderdag":[{ "Start": "1130", "Finish": "2000" }]
+      },
+      {
+        "vrijdag":[{ "Start": "1130", "Finish": "2000" }]
+      },
+      {
+        "zaterdag":[{ "Start": "1030", "Finish": "2000" }]
+      },
+      {
+        "zondag":[{ "Start": "1030", "Finish": "2000" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Sporthal Luchtbal",
+      "straat":"Santiagostraat",
+      "huisnummer":"2",
+      "postcode":"2030",
+      "district":"Antwerpen",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.421013615390422,51.24809406605329]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "woensdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "donderdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "zaterdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "zondag":[{ "Start": "0800", "Finish": "2300" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Sporthal Linkeroever",
+      "straat":"Blancefloerlaan",
+      "huisnummer":"183",
+      "postcode":"2050",
+      "district":"Antwerpen",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.368476477384722,51.21922904695747]
+    },
+    "openingsuren":[
+      {
+        "maandag":[]
+      },
+      {
+        "dinsdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "woensdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "donderdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "zaterdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "zondag":[{ "Start": "0800", "Finish": "2300" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Schoolsporthal Groenendaalcollege",
+      "straat":"Uilenhofstraat",
+      "huisnummer":"2",
+      "postcode":"2170",
+      "district":"Merksem",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.435688397110949,51.24373351743385]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "1130", "Finish": "1900" }]
+      },
+      {
+        "dinsdag":[]
+      },
+      {
+        "woensdag":[{ "Start": "1130", "Finish": "2000" }]
+      },
+      {
+        "donderdag":[{ "Start": "1130", "Finish": "2000" }]
+      },
+      {
+        "vrijdag":[{ "Start": "1130", "Finish": "2000" }]
+      },
+      {
+        "zaterdag":[{ "Start": "1030", "Finish": "2000" }]
+      },
+      {
+        "zondag":[{ "Start": "1030", "Finish": "2000" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Schoolsporthal Koninklijk Atheneum Berchem",
+      "straat":"Uitbreidingstraat",
+      "huisnummer":"246",
+      "postcode":"2600",
+      "district":"Berchem",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.421766754262631,51.19397071616261]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0815", "Finish": "1630" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0815", "Finish": "1630" }]
+      },
+      {
+        "woensdag":[{ "Start": "0815", "Finish": "1630" }]
+      },
+      {
+        "donderdag":[{ "Start": "0815", "Finish": "1630" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0815", "Finish": "1630" }]
+      },
+      {
+        "zaterdag":[]
+      },
+      {
+        "zondag":[]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"kleine sporthal",
+      "naam":"Sporthal Heilig Pius X - Instituut",
+      "straat":"VIIde-Olympiadelaan",
+      "huisnummer":"25",
+      "postcode":"2020",
+      "district":"Antwerpen",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.3876931173494285,51.18262981243556]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "1700", "Finish": "2300" }]
+      },
+      {
+        "dinsdag":[{ "Start": "1700", "Finish": "2300" }]
+      },
+      {
+        "woensdag":[{ "Start": "1600", "Finish": "2300" }]
+      },
+      {
+        "donderdag":[{ "Start": "1800", "Finish": "2300" }]
+      },
+      {
+        "vrijdag":[{ "Start": "1700", "Finish": "2300" }]
+      },
+      {
+        "zaterdag":[{ "Start": "0900", "Finish": "2200" }]
+      },
+      {
+        "zondag":[{ "Start": "0900", "Finish": "2200" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Sportcentrum Het Rooi",
+      "straat":"Berchem Stadionstraat",
+      "huisnummer":"73",
+      "postcode":"2600",
+      "district":"Berchem",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.438137627112728,51.18804973484953]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "woensdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "donderdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "zaterdag":[]
+      },
+      {
+        "zondag":[]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Sporthal Luisbekelaar",
+      "straat":"Luisbekelaar",
+      "huisnummer":" ",
+      "postcode":"2140",
+      "district":"Borgerhout",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.445568599965746,51.20576892786577]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "woensdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "donderdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "zaterdag":[]
+      },
+      {
+        "zondag":[]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Sporthal Plantin Moretus",
+      "straat":"Plantin en Moretuslei",
+      "huisnummer":"343",
+      "postcode":"2140",
+      "district":"Borgerhout",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.439424138886036,51.20935980397356]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "woensdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "donderdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "zaterdag":[]
+      },
+      {
+        "zondag":[]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"sportloods",
+      "naam":"Buurtsportballon Deurne",
+      "straat":"Ten Eeckhovelei",
+      "huisnummer":"145",
+      "postcode":"2100",
+      "district":"Deurne",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.449234424888096,51.22567788889712]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "woensdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "donderdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "zaterdag":[]
+      },
+      {
+        "zondag":[]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"kleine sporthal",
+      "naam":"Sporthal Arena",
+      "straat":"Arenaplein",
+      "huisnummer":"1",
+      "postcode":"2100",
+      "district":"Deurne",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.45956803467773,51.20660705933978]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0900", "Finish": "2200" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0900", "Finish": "2200" }]
+      },
+      {
+        "woensdag":[{ "Start": "0900", "Finish": "2200" }]
+      },
+      {
+        "donderdag":[{ "Start": "0900", "Finish": "2200" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0900", "Finish": "2200" }]
+      },
+      {
+        "zaterdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "zondag":[{ "Start": "0900", "Finish": "2300" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"kleine sporthal",
+      "naam":"Sporthal Expo",
+      "straat":"Frank Craeybeckxlaan",
+      "huisnummer":"77",
+      "postcode":"2100",
+      "district":"Deurne",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.458709659017365,51.223651459771915]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "woensdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "donderdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "zaterdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "zondag":[{ "Start": "0900", "Finish": "2300" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Sporthal 't Venneke",
+      "straat":"Den Geer",
+      "huisnummer":"21",
+      "postcode":"2180",
+      "district":"Ekeren",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.429569728024896,51.28323239979117]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "woensdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "donderdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "zaterdag":[]
+      },
+      {
+        "zondag":[]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"kleine sporthal",
+      "naam":"Sporthal Notelaar",
+      "straat":"Oudestraat",
+      "huisnummer":"51",
+      "postcode":"2660",
+      "district":"Hoboken",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.353548948809562,51.17640447693918]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "woensdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "donderdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "zaterdag":[]
+      },
+      {
+        "zondag":[]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Sporthal Sorghvliedt",
+      "straat":"Krijgsbaan",
+      "huisnummer":"20",
+      "postcode":"2660",
+      "district":"Hoboken",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.354255558505302,51.16699878339766]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0830", "Finish": "2300" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0830", "Finish": "2300" }]
+      },
+      {
+        "woensdag":[{ "Start": "0830", "Finish": "2300" }]
+      },
+      {
+        "donderdag":[{ "Start": "0830", "Finish": "2300" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0830", "Finish": "2300" }]
+      },
+      {
+        "zaterdag":[{ "Start": "0830", "Finish": "2300" }]
+      },
+      {
+        "zondag":[{ "Start": "0830", "Finish": "2300" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Sporthal Fort VIII",
+      "straat":"Schansstraat",
+      "huisnummer":" ",
+      "postcode":"2660",
+      "district":"Hoboken",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.346238991646879,51.165236244996755]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "woensdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "donderdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "zaterdag":[]
+      },
+      {
+        "zondag":[]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Sporthal De Rode Loop",
+      "straat":"Rodeloopstraat",
+      "huisnummer":"2",
+      "postcode":"2170",
+      "district":"Merksem",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.442602013995167,51.25025492108576]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "woensdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "donderdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "zaterdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "zondag":[{ "Start": "0800", "Finish": "2300" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Schoolsporthal Brilschans",
+      "straat":"Lodewijk Van Sullstraat",
+      "huisnummer":"",
+      "postcode":"2600",
+      "district":"Berchem",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.428469387652333,51.18821543750006]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "1700", "Finish": "2300" }]
+      },
+      {
+        "dinsdag":[{ "Start": "1700", "Finish": "2300" }]
+      },
+      {
+        "woensdag":[{ "Start": "1300", "Finish": "2300" }]
+      },
+      {
+        "donderdag":[{ "Start": "1700", "Finish": "2300" }]
+      },
+      {
+        "vrijdag":[{ "Start": "1700", "Finish": "2300" }]
+      },
+      {
+        "zaterdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "zondag":[{ "Start": "0900", "Finish": "2300" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"kleine sporthal",
+      "naam":"Sporthal De Bist",
+      "straat":"Koningin Elisabethstraat",
+      "huisnummer":" ",
+      "postcode":"2610",
+      "district":"Wilrijk",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.390967664120475,51.170702194581466]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "woensdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "donderdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "zaterdag":[]
+      },
+      {
+        "zondag":[]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"sportzaal",
+      "naam":"Sportzaal Schriek",
+      "straat":"Schriek",
+      "huisnummer":"358",
+      "postcode":"2180",
+      "district":"Ekeren",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.442657935103484,51.29178749164077]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0800", "Finish": "2200" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0800", "Finish": "2200" }]
+      },
+      {
+        "woensdag":[{ "Start": "0800", "Finish": "2200" }]
+      },
+      {
+        "donderdag":[{ "Start": "0800", "Finish": "2200" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0800", "Finish": "2200" }]
+      },
+      {
+        "zaterdag":[{ "Start": "0800", "Finish": "2200" }]
+      },
+      {
+        "zondag":[{ "Start": "0800", "Finish": "2200" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"turnhal",
+      "naam":"Gymhal Terlinden",
+      "straat":"Terlindenhofstraat",
+      "huisnummer":"150",
+      "postcode":"2170",
+      "district":"Merksem",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.442699231073922,51.24631007768923]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "1500", "Finish": "2300" }]
+      },
+      {
+        "dinsdag":[]
+      },
+      {
+        "woensdag":[{ "Start": "1100", "Finish": "2300" }]
+      },
+      {
+        "donderdag":[{ "Start": "1500", "Finish": "2300" }]
+      },
+      {
+        "vrijdag":[{ "Start": "1500", "Finish": "2300" }]
+      },
+      {
+        "zaterdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "zondag":[{ "Start": "0900", "Finish": "2300" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"ijsbaan",
+      "naam":"Ijsbaan Ruggeveld",
+      "straat":"Ruggeveldlaan",
+      "huisnummer":"488",
+      "postcode":"2100",
+      "district":"Deurne",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.482781087101872,51.217351332685666]
+    },
+    "openingsuren":[
+      {
+        "maandag":[]
+      },
+      {
+        "dinsdag":[]
+      },
+      {
+        "woensdag":[{ "Start": "1430", "Finish": "1630" }]
+      },
+      {
+        "donderdag":[]
+      },
+      {
+        "vrijdag":[{ "Start": "2000", "Finish": "2200" }]
+      },
+      {
+        "zaterdag":[]
+      },
+      {
+        "zondag":[{ "Start": "1500", "Finish": "1700" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"sportloods",
+      "naam":"Buurtsporthal All Inn",
+      "straat":"Slachthuislaan",
+      "huisnummer":"44",
+      "postcode":"2060",
+      "district":"Antwerpen",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.431116408697705,51.23240570651713]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "woensdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "donderdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "zaterdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "zondag":[{ "Start": "0900", "Finish": "2300" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Buurtsporthal Parkloods",
+      "straat":"Damplein",
+      "huisnummer":"36",
+      "postcode":"2060",
+      "district":"Antwerpen",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.427223486862512,51.22898194160923]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "woensdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "donderdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "zaterdag":[]
+      },
+      {
+        "zondag":[]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"sportloods",
+      "naam":"Buurtsporthal Kiel/Antwerpen",
+      "straat":"August Leyweg",
+      "huisnummer":"2",
+      "postcode":"2020",
+      "district":"Antwerpen",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.379466816196851,51.19492817423579]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "woensdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "donderdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "zaterdag":[]
+      },
+      {
+        "zondag":[]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Sporthal Wilrijkse Plein",
+      "straat":"Vogelzanglaan",
+      "huisnummer":"6",
+      "postcode":"2020",
+      "district":"Wilrijk",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.3980349301341715,51.1878772818934]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "1000", "Finish": "2300" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "woensdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "donderdag":[{ "Start": "1000", "Finish": "2300" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0800", "Finish": "2300" }]
+      },
+      {
+        "zaterdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "zondag":[{ "Start": "0900", "Finish": "2300" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Sportcentrum De Polder",
+      "straat":"Zandweg",
+      "huisnummer":"2",
+      "postcode":"2040",
+      "district":"Berendrecht",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.315668088989494,51.349190671771474]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "woensdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "donderdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "zaterdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "zondag":[{ "Start": "0900", "Finish": "2300" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Buurtsportballon",
+      "straat":"Oude Bosuilbaan",
+      "huisnummer":"54",
+      "postcode":"2100",
+      "district":"Deurne",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.471043089250633,51.23334552699814]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "woensdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "donderdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "zaterdag":[{ "Start": "0900", "Finish": "2300" }]
+      },
+      {
+        "zondag":[{ "Start": "0900", "Finish": "2300" }]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Buurtsporthal IGLO",
+      "straat":"Louis Paul Boonstraat",
+      "huisnummer":"41",
+      "postcode":"2050",
+      "district":"Antwerpen",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.384641908895588,51.225160989741816]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0900", "Finish": "1700" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0900", "Finish": "1700" }]
+      },
+      {
+        "woensdag":[{ "Start": "0900", "Finish": "1700" }]
+      },
+      {
+        "donderdag":[{ "Start": "0900", "Finish": "1700" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0900", "Finish": "1700" }]
+      },
+      {
+        "zaterdag":[{ "Start": "0900", "Finish": "1700" }]
+      },
+      {
+        "zondag":[]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"grote sporthal",
+      "naam":"Buurtsporthal All Inn",
+      "straat":"Slachthuislaan",
+      "huisnummer":"44",
+      "postcode":"2060",
+      "district":"Antwerpen",
+      },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.432097771370315,51.23162560162179]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "dinsdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "woensdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "donderdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "vrijdag":[{ "Start": "0900", "Finish": "1300" },{ "Start": "1400", "Finish": "1800" }]
+      },
+      {
+        "zaterdag":[]
+      },
+      {
+        "zondag":[]
+      }
+    ]
+  },
+
+  {"type":"Feature",
+    "properties":{
+      "thema":"sport",
+      "type":"binnensport",
+      "subtype":"kleine sporthal",
+      "naam":"Boeckenberg Sportcenter",
+      "straat":"Grensstraat",
+      "huisnummer":"9",
+      "postcode":"2100",
+      "district":"Deurne",
+    },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[4.470962690939273,51.195640778137914]
+    },
+    "openingsuren":[
+      {
+        "maandag":[{ "Start": "1800", "Finish": "0000" }]
+      },
+      {
+        "dinsdag":[{ "Start": "1800", "Finish": "0000" }]
+      },
+      {
+        "woensdag":[{ "Start": "1400", "Finish": "0000" }]
+      },
+      {
+        "donderdag":[{ "Start": "1800", "Finish": "0000" }]
+      },
+      {
+        "vrijdag":[{ "Start": "1800", "Finish": "0000" }]
+      },
+      {
+        "zaterdag":[{ "Start": "1000", "Finish": "2000" }]
+      },
+      {
+        "zondag":[{ "Start": "1000", "Finish": "2000" }]
+      }
+    ]
+  }
+]}
