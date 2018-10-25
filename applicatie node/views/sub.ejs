@@ -1,0 +1,25 @@
+<% include header %>
+
+			<main id="grid">
+				<div class="navigation">
+					<ul>
+						<% for (var i=0; i < mijnInformatie.mijnVakken.length; i++) { %>
+					        <li><a href="sub"><%= mijnInformatie.mijnVakken[i].naam %></a></li>
+					    <% } %>
+					</ul>
+				</div>
+				<div id="grid-home">
+					<div class="informatie">
+						<% for (var i=0; i < mijnInformatie.mijnVakken.length; i++) { %>
+								<p><%= mijnInformatie.mijnVakken[i].uitleg %></p>
+					    <% } %>
+					</div>
+
+					<img src="/images/<% include image-item%>" alt="" class="me">
+
+				</div>
+
+
+			</main>
+
+<% include footer %>

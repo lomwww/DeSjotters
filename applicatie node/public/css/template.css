@@ -1,0 +1,92 @@
+@font-face {
+  font-family: "coco";
+  src: url(/font/Coco.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url(/font/RobotoMono-LightItalic.ttf) format("truetype");
+}
+
+body {
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto";
+}
+
+.screen {
+  width: 100%;
+  height: 100%;
+}
+
+header {
+  background-color: black;
+  color: white;
+  font-family: "coco";
+  padding: 3em 10em 3em 10em;
+}
+
+.titel {
+  color: white;
+  text-transform: lowercase;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: tomato;
+}
+
+main {
+  padding: 5em 8em 5em 8em;
+  display: grid;
+  grid-template-columns: 2fr 6fr;
+  max-height: calc(100vh - 12em);
+}
+
+#grid-home {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.navigation {
+  padding-left: 2em;
+  line-height: 2em;
+}
+
+.overMezelf {
+  line-height: 1.3em;
+}
+
+.informatie {
+  line-height: 1.3em;
+  text-align: justify;
+}
+
+.mijnBio {
+  margin-bottom: 6em;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 70%;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  font-family: "coco";
+  padding: 3em 10em 3em 10em;
+}
+
+.socialMediaContainer > a > img {
+  width: 1em;
+  justify-content: center;
+  display: inline;
+  padding-left: 0.5em;
+}

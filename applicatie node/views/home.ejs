@@ -1,0 +1,33 @@
+<% include header %>
+
+			<main id="grid">
+				<div class="navigation">
+					<ul>
+						<% for (var i=0; i < mijnInformatie.mijnVakken.length; i++) { %>
+								<li><a href="sub"><%= mijnInformatie.mijnVakken[i].naam %></a></li>
+					    <% } %>
+					</ul>
+				</div>
+
+				<div id="grid-home">
+					<div class="overMezelf">
+						<div class="mijnBio">
+							<% for (var i=0; i < mijnInformatie.mijnGegevens.mijnHobbies.length; i++) { %>
+								<p>- <%= mijnInformatie.mijnGegevens.mijnHobbies[i] %>.</p>
+					    <% } %>
+						</div>
+
+						<div class="mijnSkills">
+							<h2>Mijn vaardigheden:</h2>
+							<% for (var i=0; i < mijnInformatie.mijnSkills.length; i++) { %>
+									<h3><%= mijnInformatie.mijnSkills[i].naam %>: <%= mijnInformatie.mijnSkills[i].value %></h3>
+						    <% } %>
+						</div>
+					</div>
+
+					<img src="/images/<%= mijnInformatie.mijnGegevens.image %>" alt="" class="me">
+
+				</div>
+			</main>
+
+<% include footer %>

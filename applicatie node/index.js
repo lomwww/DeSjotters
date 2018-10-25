@@ -7,6 +7,12 @@ var app = express();
 app.set("views", path.resolve(__dirname, "views"));
 app.set("view engine", "ejs");
 
+app.get('/', function(req,res) {
+
+  res.render('views/home');
+
+})
+
 app.use(express.static('public'));
 
 app.listen(3000, function() {
