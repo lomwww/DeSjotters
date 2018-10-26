@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+
+  <title>Portfolio</title>
+
+
+
+      <link rel="stylesheet" href="css/style.css">
+      <link href="https://fonts.googleapis.com/css?family=Emblema+One" rel="stylesheet">
+
+
+</head>
+<body>
+
+  <h1 class="titel">SUPER 8</h1>
+
+  <nav class="navbar">
+    <span class="open-slide">
+      <a href="#" onclick="openSlideMenu()">
+<div class="scaleSvg">
+
+
+        <svg width="100" height="150">
+            <path d="M0,10 100,10" stroke="#fff" stroke-width="10"/>
+            <path d="M0,55 100,55" stroke="#fff" stroke-width="10"/>
+            <path d="M0,100 100,100" stroke="#fff" stroke-width="10"/>
+
+        </svg>
+        </div>
+      </a>
+    </span>
+
+
+  </nav>
+
+  <main>
+
+
+
+  <div id="side-menu" class="side-nav">
+    <a href="#" class="btn-close" onclick="closeSlideMenu()">&times;</a>
+    <a href="/">Home</a>
+    <a href="news">News</a>
+    <a href="top">Top</a>
+    <a href="upcoming">Upcoming</a>
+  </div>
+
+  <div id="">
+    <h1>HOME</h1>
+    </div>
+    <div class="grid-container">
+  <div class="item1" onclick="location.href='starwars';" style="cursor:pointer;">
+  </div>
+  <div class="item2" onclick="location.href='avatar';" style="cursor:pointer;">
+  </div>
+  <div class="item3" onclick="location.href='wolverine';" style="cursor:pointer;">
+  </div>
+</div>
+
+</main>
+  <script>
+    function openSlideMenu(){
+      document.getElementById('side-menu').style.width = '500px';
+      document.getElementById('main').style.marginLeft = '250px';
+    }
+
+    function closeSlideMenu(){
+      document.getElementById('side-menu').style.width = '0';
+      document.getElementById('main').style.marginLeft = '0';
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,315 @@
+body{
+  font-family:"Arial", Serif;
+  background: linear-gradient(to right, #23074d, #cc5333);
+
+
+
+}
+
+.titel{
+  color: white;
+  font-family: 'Emblema One', cursive;
+  font-size: 10em;
+  margin-left: 10%;
+
+  margin-top: 10px;
+  text-align: center;
+
+}
+
+/*NAVIGATIE*/
+.navbar{
+  background-color:#4B0082;
+  overflow:hidden;
+  height:150px;
+}
+
+.navbar a{
+
+  display:block;
+  color:#f2f2f2;
+  text-align:center;
+  padding:14px 16px;
+  text-decoration:none;
+  font-size:2em;
+}
+
+.navbar ul{
+  margin:8px 0 0 0;
+  list-style:none;
+}
+
+.navbar a:hover{
+  background-color:#ddd;
+  color:#000;
+}
+
+.side-nav{
+  height:100%;
+  width:0;
+  position:fixed;
+  z-index:1;
+  top:0;
+  left:-20px;
+  background-color:#111;
+  opacity:0.9;
+  overflow-x:hidden;
+  padding-top:60px;
+  padding-right: 20px;
+  transition:0.5s;
+}
+
+.side-nav a{
+  padding:10px 10px 10px 60px;
+  text-decoration:none;
+  font-size:5em;
+  color:#ccc;
+  display:block;
+  transition:0.3s;
+}
+
+.side-nav a:hover{
+  color:#fff;
+}
+
+.side-nav .btn-close{
+  position:absolute;
+  top:0;
+  right:22px;
+  font-size:5em;
+  margin-left:50px;
+}
+
+
+
+#main{
+  transition:margin-left 0.5s;
+  padding:20px;
+  overflow:hidden;
+  width:100%;
+}
+
+/*MAIN*/
+
+main{
+  height: 1000px;
+}
+
+
+
+.grid-container {
+      display: grid;
+      height: 100%;
+      grid-template-columns: 1fr;
+      grid-template-rows: 500px 500px 500px;;
+
+}
+
+.item1 {
+      grid-area: 1 / 1 / 2 / 2;
+      background-image: url("https://static1.srcdn.com/wordpress/wp-content/uploads/2017/12/Star-Wars-Episode-9-confirmed-cast-and-returning-characters.jpg?q=50&fit=crop&w=798&h=407&dpr=1.5");
+      background-size: 100%;
+      background-repeat: no-repeat;
+
+
+
+}
+
+.item2 {
+      grid-area: 2 / 1 / 3 / 2;
+      background-image: url("https://static2.srcdn.com/wordpress/wp-content/uploads/2018/07/Neytiri-in-Avatar.jpg?q=50&fit=crop&w=798&h=407&dpr=1.5");
+      background-size: 100%;
+      background-repeat: no-repeat;
+
+
+}
+
+.item3 {
+      grid-area: 3 / 1 / 4 / 2;
+      background-image: url("https://static0.srcdn.com/wordpress/wp-content/uploads/2018/08/Wolverine-Daughter-X-23-Laura-Kinney.jpg?q=50&fit=crop&w=798&h=407&dpr=1.5");
+      background-size: 100%;
+      background-repeat: no-repeat;
+
+
+}
+
+ h1{
+  margin-top: 50px;
+  color: white;
+  font-size: 5em;
+  width: 80%;
+  text-align: center;
+  margin-left: 10%;
+
+}
+ p{
+  color: white;
+  text-align: left;
+  line-height: 55px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 2em;
+}
+
+.st1{
+  width: 100%;
+  height: 500px;
+  background-image: url("https://static0.srcdn.com/wordpress/wp-content/uploads/2017/06/Star-Wars-Force-Awakens-Rey-Finn-Poe-wallpaper.jpg?q=50&fit=crop&w=738&dpr=1.5");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.st2{
+  width: 100%;
+  height: 550px;
+  background-image: url("https://static3.srcdn.com/wordpress/wp-content/uploads/2017/10/Star-Wars-Last-Jedi-Poster.jpg?q=50&fit=crop&w=738&dpr=1.5");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+button{
+  width: 40%;
+  height: 80px;
+  margin-left: 30%;
+  margin-bottom: 50px;
+  background-color: rgba(0, 175, 246, 1);
+  color: white;
+  border: 0px solid white;
+  transition: 0.5s;
+  font-size: 2em;
+}
+
+
+button:hover{
+  background-color: rgba(255, 73, 93, 1);
+}
+
+
+.a1{
+  width: 100%;
+  height: 250px;
+  background-image: url("https://static2.srcdn.com/wordpress/wp-content/uploads/2018/02/The-Oceans-of-Pandora-in-Avatar.jpg?q=50&fit=crop&w=738");
+  background-size: 125%;
+  background-repeat: no-repeat;
+}
+
+.w1{
+  width: 100%;
+  height:400px;
+  background-image: url("https://static3.srcdn.com/wordpress/wp-content/uploads/2018/08/X23-Wolverine-Daughter-Not-Clone.jpg?q=50&fit=crop&w=738");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin-bottom: 30px;
+}
+/*NEWS*/
+
+.item4 {
+      grid-area: 1 / 1 / 2 / 2;
+      background-image: url("https://static0.srcdn.com/wordpress/wp-content/uploads/2016/08/Oscars-logo.jpg?q=50&fit=crop&w=798&h=407");
+      background-size: 100%;
+      background-repeat: no-repeat;
+
+
+
+}
+
+.item5 {
+      grid-area: 2 / 1 / 3 / 2;
+      background-image: url("https://static0.srcdn.com/wordpress/wp-content/uploads/2018/08/Supergirl-Breaking-Chains-Comic.jpg?q=50&fit=crop&w=798&h=407");
+      background-size: 100%;
+      background-repeat: no-repeat;
+
+
+}
+
+.item6 {
+      grid-area: 3 / 1 / 4 / 2;
+      background-image: url("https://static3.srcdn.com/wordpress/wp-content/uploads/2018/02/Childs-Play-Chucky-Close-Up.jpg?q=50&fit=crop&w=798&h=407");
+      background-size: 100%;
+      background-repeat: no-repeat;
+    }
+
+
+.sg1{
+        width: 100%;
+        height:400px;
+        background-image: url("https://static3.srcdn.com/wordpress/wp-content/uploads/2018/08/Supergirl-Injustice-Video-Game.jpg?q=50&fit=crop&w=738&dpr=1.5");
+        background-size: 100%;
+        background-repeat: no-repeat;
+        margin-bottom: 30px;
+      }
+
+.chucky{
+        width: 100%;
+        height:550px;
+        background-image: url("https://static3.srcdn.com/wordpress/wp-content/uploads/2018/02/Childs-Play-Chucky-Close-Up.jpg?q=50&fit=crop&w=798&h=407&dpr=1.5");
+        background-size: 100%;
+        background-repeat: no-repeat;
+        margin-bottom: 30px;
+            }
+/* TOP 10 best movies of 2018 so far*/
+
+
+ .top10, .top9, .top8, .top7, .top6, .top5, .top4, .top3, .top2, .top1{
+   width: 100%;
+   height:550px;
+   background-color: ;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   margin-bottom: 30px;
+ }
+
+
+ .top10{
+   background-image: url("http://lewtonbus.net/wp-content/uploads/2018/04/Rampage_trailer1.jpg");
+ }
+ .top9{
+   background-image: url("https://i.kinja-img.com/gawker-media/image/upload/s--om6ymE1a--/c_scale,f_auto,fl_progressive,q_80,w_800/trbp8pp4jwjuvgoyn8m5.jpg");
+ }
+ .top8{
+   background-image: url("http://images.sequart.org/images/Erk-vs-TChalla.jpg");
+ }
+ .top7{
+   background-image: url("https://uproxx.files.wordpress.com/2018/03/ready-player-one-iron-giant-wrongness_warner.jpg?quality=95&w=650");
+ }
+ .top6{
+   background-image: url("https://www.chicklit.nl/ckfinder/userfiles/images/Chicklit/artikelen/Films/Avengers%20Infinity%20War.jpg");
+ }
+ .top5{
+   background-image: url("https://2.bp.blogspot.com/-OPzM6QhtfJU/Wrthb58DBhI/AAAAAAAAEt4/n_3NbzXQxcoENNWwmWGzzU5-ozBvFYMOwCEwYBhgL/s1600/annihilation%2B6.jpg");
+   background-size: 100%;
+   height: 500px;
+ }
+ .top4{
+   background-image: url("http://www.filmandtvnow.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-15-at-20.00.28.png");
+ }
+ .top3{
+   background-image: url("https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/deadpool2-adambanner-frontpage-700x327.jpg");
+   background-size: 130%;
+ }
+ .top2{
+   background-image: url("https://am23.akamaized.net/tms/cnt/uploads/2018/04/john-krasinski-a-quiet-place-1200x675.jpg");
+ }
+ .top1{
+   background-image: url("https://www.lux-nijmegen.nl/wp-content/uploads/2018/04/Isle-of-Dogs_st_15_jpg_sd-high_%C2%A9-2018-Twentieth-Century-Fox-Film-Corporation-All-Rights-Reserved-912x513.jpg");
+ }
+
+ h2{
+   margin-top: 50px;
+   color: white;
+   font-size: 3em;
+   width: 80%;
+   text-align: center;
+   margin-left: 10%;
+ }
+
+ /*Upcomin*/
+
+ .up iframe{
+
+  width: 100%;
+  height: 500px;;
+
+}

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Portfolio</title>
+
+
+
+      <link rel="stylesheet" href="css/style.css">
+      <link href="https://fonts.googleapis.com/css?family=Emblema+One" rel="stylesheet">
+
+
+
+</head>
+<body>
+
+  <h1 class="titel">SUPER 8</h1>
+
+  <nav class="navbar">
+    <span class="open-slide">
+      <a href="#" onclick="openSlideMenu()">
+<div class="scaleSvg">
+
+
+        <svg width="100" height="150">
+            <path d="M0,10 100,10" stroke="#fff" stroke-width="10"/>
+            <path d="M0,55 100,55" stroke="#fff" stroke-width="10"/>
+            <path d="M0,100 100,100" stroke="#fff" stroke-width="10"/>
+
+        </svg>
+        </div>
+      </a>
+    </span>
+
+
+  </nav>
+
+  <main>
+
+
+
+  <div id="side-menu" class="side-nav">
+    <a href="#" class="btn-close" onclick="closeSlideMenu()">&times;</a>
+    <a href="/">Home</a>
+    <a href="news">News</a>
+    <a href="top">Top</a>
+    <a href="upcoming">Upcoming</a>
+  </div>
+
+  <div id="upcoming">
+    <h1>Top upcoming movies in 2018/2019 </h1>
+
+      <h2>Christopher Robin</h2>
+      <div class="up">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/0URpDxIjZrQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+
+
+      <h2>Sipder man: Into the spiderverse</h2>
+      <div class="up">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/ii3n7hYQOl4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+      </div>
+
+      <h2>Venom</h2>
+      <div class="up">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/xLCn88bfW1o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+      </div>
+
+      <h2>BumbelBee</h2>
+      <div class="up">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/fAIX12F6958" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+
+      <h2>The predator</h2>
+      <div class="up">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/z861NN5ZB_s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+      <h2>Mortal engines</h2>
+      <div class="up">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/IRsFc2gguEg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+
+      <h2>Equalizer 2</h2>
+      <div class="up">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/HyNJ3UrGk_I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+
+      <h2>Halloween</h2>
+      <div class="up">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ek1ePFp-nBI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+
+      <h2>The lego movie 2</h2>
+      <div class="up">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/11K013qpRR4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+      <h2>X-men: The new mutants</h2>
+      <div class="up">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/bu9e410C__I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+
+    </div>
+
+</main>
+  <script>
+    function openSlideMenu(){
+      document.getElementById('side-menu').style.width = '500px';
+      document.getElementById('main').style.marginLeft = '250px';
+    }
+
+    function closeSlideMenu(){
+      document.getElementById('side-menu').style.width = '0';
+      document.getElementById('main').style.marginLeft = '0';
+    }
+  </script>
+</body>
+</html>
