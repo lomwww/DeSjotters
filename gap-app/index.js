@@ -39,7 +39,7 @@ request('https://geodata.antwerpen.be/arcgissql/rest/services/P_Portal/portal_pu
 );
 
 //landing page
-app.get("/", function(req, res){
+app.get("/inlog", function(req, res){
   res.render("inlog");
 });
 
