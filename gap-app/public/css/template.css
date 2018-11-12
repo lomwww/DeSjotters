@@ -1,9 +1,30 @@
 body {
   background-color: #221E1F;
+  font-family: "Helvetica Neue", light;
 }
 
 .logo {
   max-width: 40%;
   display: block;
   margin: 50px auto;
+}
+
+.login > input {
+  width: 70%;
+  margin: 10px auto 10px auto;
+  display: block;
+  padding: 10px 10px 10px 0;
+  border: none;
+  border-bottom: 2px solid #E2D535;
+}
+
+.login > .loginKnop {
+  margin: 100px auto;
+  display: block;
+}
+
+input {
+  background-color: #221E1F;
+  color: white;
+
 }
