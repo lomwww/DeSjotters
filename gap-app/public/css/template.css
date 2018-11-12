@@ -3,8 +3,13 @@ body {
   font-family: "Helvetica Neue", light;
 }
 
+<<<<<<< HEAD
 .logoLom {
   max-width: 40%;
+=======
+.logo {
+  max-width: 50%;
+>>>>>>> 232f08257c3b1d0700f9c8fbfed88811c5e9faef
   display: block;
   margin: 50px auto;
 }
