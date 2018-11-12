@@ -49,8 +49,8 @@ app.get("/reservatie", function(req, res){
 });
 
 //
-app.get("/avatar", function(req, res){
-  res.render("avatar");
+app.get("/home", function(req, res){
+  res.render("home");
 });
 
 app.get("/wolverine", function(req, res){
