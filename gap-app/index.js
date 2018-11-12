@@ -44,8 +44,8 @@ app.get("/", function(req, res){
 });
 
 //next page
-app.get("/starwars", function(req, res){
-  res.render("starwars");
+app.get("/reservatie", function(req, res){
+  res.render("reservatie");
 });
 
 //
