@@ -4,7 +4,11 @@ body {
 }
 
 .logo {
+<<<<<<< HEAD
   max-width: 50%;
+=======
+  max-width: 60%;
+>>>>>>> 94529639b73e907799ff826fad9a04810334cc0b
   display: block;
   margin: 50px auto;
 }
