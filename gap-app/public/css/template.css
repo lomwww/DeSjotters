@@ -11,12 +11,10 @@ h2{
 }
 .logo {
   max-width: 50%;
-=======
+}
 
-<<<<<<< HEAD
 .logoLom {
   max-width: 40%;
->>>>>>> 31e6759b9cf77150a0f96a123a76efbb19f675e3
   display: block;
   margin: 50px auto;
 }
