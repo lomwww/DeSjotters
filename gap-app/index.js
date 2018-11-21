@@ -43,6 +43,10 @@ app.get("/inlog", function(req, res){
   res.render("inlog");
 });
 
+app.get("/registratie", function(req, res){
+  res.render("registratie");
+});
+
 //next page
 app.get("/reservatie", function(req, res){
   res.render("reservatie");
