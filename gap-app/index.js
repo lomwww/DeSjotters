@@ -77,8 +77,8 @@ app.get("/top", function(req, res){
   res.render("top");
 });
 
-app.get("/reviews", function(req, res){
-  res.render("reviews");
+app.get("/uitleg", function(req, res){
+  res.render("uitleg");
 });
 
 app.get("/upcoming", function(req, res){
