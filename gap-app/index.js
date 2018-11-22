@@ -61,12 +61,12 @@ app.get("/wolverine", function(req, res){
   res.render("wolverine");
 });
 
-app.get("/news", function(req, res){
-  res.render("news");
+app.get("/uitlegtwee", function(req, res){
+  res.render("uitlegtwee");
 });
 
-app.get("/oscars", function(req, res){
-  res.render("oscars");
+app.get("/uitlegdrie", function(req, res){
+  res.render("uitlegdrie");
 });
 
 app.get("/supergirl", function(req, res){

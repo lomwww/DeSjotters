@@ -2,13 +2,14 @@ body {
   background-color: #221E1F;
   font-family: "Helvetica Neue", light;
 }
-<<<<<<< HEAD
-h2{
+
+h2 {
   font-size: 25px;
   color: white;
   padding: 20px;
   text-align: center;
 }
+
 .logo {
   max-width: 50%;
 }
@@ -108,5 +109,39 @@ form {
   max-width: 100%;
   height: 540px;
   margin: 24px 24px 40px 24px;
+  background-color: black;
+}
+
+.foto1Gilles {
+  max-width: 101%;
+}
+
+.foto2Gilles{
+  max-width: 101%;
+}
+
+.foto3Gilles{
+  max-width: 101%;
+}
+
+.dotGilles{
+  height: 15px;
+  width: 15px;
   background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 17px;
+}
+.dotkleurGilles{
+  height: 15px;
+  width: 15px;
+  background-color: #E2D535;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 17px;
+
+}
+.boldivGilles{
+  margin-left: 125px;
+  margin-right: 125px;
 }
