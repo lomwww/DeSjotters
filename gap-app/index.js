@@ -43,6 +43,10 @@ app.get("/inlog", function(req, res){
   res.render("inlog");
 });
 
+app.get("/registratie", function(req, res){
+  res.render("registratie");
+});
+
 //next page
 app.get("/reservatie", function(req, res){
   res.render("reservatie");
@@ -57,12 +61,12 @@ app.get("/wolverine", function(req, res){
   res.render("wolverine");
 });
 
-app.get("/news", function(req, res){
-  res.render("news");
+app.get("/uitlegtwee", function(req, res){
+  res.render("uitlegtwee");
 });
 
-app.get("/oscars", function(req, res){
-  res.render("oscars");
+app.get("/uitlegdrie", function(req, res){
+  res.render("uitlegdrie");
 });
 
 app.get("/supergirl", function(req, res){
@@ -77,8 +81,8 @@ app.get("/top", function(req, res){
   res.render("top");
 });
 
-app.get("/reviews", function(req, res){
-  res.render("reviews");
+app.get("/uitleg", function(req, res){
+  res.render("uitleg");
 });
 
 app.get("/upcoming", function(req, res){
