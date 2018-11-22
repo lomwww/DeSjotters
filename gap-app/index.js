@@ -88,3 +88,7 @@ app.get("/uitleg", function(req, res){
 app.get("/upcoming", function(req, res){
   res.render("upcoming");
 });
+
+app.get("/zalen", function(req, res){
+  res.render("zalen");
+});

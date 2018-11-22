@@ -163,3 +163,20 @@ input {
   margin-left: 125px;
   margin-right: 125px;
 }
+
+.fotozalen {
+  width: 120px;
+  height: 120px;
+  background-color: red;
+  border-bottom: 10px solid #E2D535;
+
+}
+
+.grid {
+  margin: 160px 40px 0 40px;
+  height: auto;
+  border: 1px solid yellow;
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+  grid-row-gap: 25px;
+}
