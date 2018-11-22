@@ -4,7 +4,7 @@ body {
 }
 
 .logo {
-  max-width: 60%;
+  max-width: 50%;
   display: block;
   margin: 50px auto;
 }
@@ -29,6 +29,24 @@ input {
 
 }
 
-form {
+.formbart {
  color: white;
+ border: 1px solid black;
+ display: block;
+ margin: 0 auto;
+
+}
+
+
+.selectbart {
+ color: black;
+ background-color: white;
+ width: 250px;
+ height: 30px;
+ border: 1px solid black;
+ display: block;
+ margin: 0 auto;
+ text-align: center;
+ text-decoration: none;
+
 }
