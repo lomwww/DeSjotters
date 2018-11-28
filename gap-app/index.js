@@ -25,7 +25,7 @@ app.listen(3000, function() {
 console.log("Webserver draait");
 
 var data;
-request('https://geodata.antwerpen.be/arcgissql/rest/services/P_Portal/portal_publiek/MapServer/643/query?where=1%3D1&outFields=*&f=geojson',
+request('https://geodata.antwerpen.be/arcgissql/rest/services/P_Portal/portal_publiek/MapServer/643/query?where=1%3D1&outFields=naam,straat,huisnummer,postcode,district,OBJECTID,id&outSR=4326&f=json',
   function(error, response, body){
     data = JSON.parse(body);
 

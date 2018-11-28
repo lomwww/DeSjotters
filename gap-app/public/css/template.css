@@ -1,6 +1,7 @@
 body {
   background-color: #221E1F;
   font-family: "Helvetica Neue", light;
+  color: white;
 }
 
 h2 {
@@ -227,20 +228,25 @@ select {
 }
 
 .fotozalen {
+  font-size: 10px;
   width: 120px;
   height: 120px;
   background-color: red;
   border-bottom: 10px solid #E2D535;
-
+  justify-content: center;
 }
 
 .grid {
-  margin: 160px 40px 0 40px;
+  margin: 0 40px 0 40px;
   height: auto;
   border: 1px solid yellow;
   display: grid;
-  grid-template-columns: 1fr 1fr ;
+  grid-template-columns: 1fr 1fr;
   grid-row-gap: 25px;
+}
+
+.zaalNaam {
+  margin-top: 120px;
 }
 
 
