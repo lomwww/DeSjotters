@@ -63,7 +63,7 @@ h3 {
   border-bottom: 2px solid #E2D535;
 }
 
-.registratieLom > input {
+.registratie > input {
   width: 70%;
   margin: 10px auto 25px auto;
   display: block;
@@ -89,11 +89,11 @@ input {
 }
 
 
-
-
-
-
-
+.menuWeg {
+  margin-top: 20px;
+  width: 120%;
+  height: 120%;
+}
 
 .formbart {
  color: white;
@@ -248,26 +248,29 @@ select {
 
 /* The side navigation menu */
 .sidenav {
-    height: 100%; /* 100% Full-height */
-    width: 0; /* 0 width - change this with JavaScript */
-    position: fixed; /* Stay in place */
-    z-index: 1; /* Stay on top */
-    top: 0; /* Stay at the top */
-    left: 0;
-    background-color: #111; /* Black*/
-    overflow-x: hidden; /* Disable horizontal scroll */
-    padding-top: 60px; /* Place content 60px from the top */
-    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+  height: 100%; /* 100% Full-height */
+  width: 0; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #111; /* Black*/
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
 }
 
 /* The navigation menu links */
 .sidenav button {
-    padding: 8px 8px 8px 32px;
-    text-decoration: none;
-    font-size: 25px;
-    color: #818181;
-    display: block;
-    transition: 0.3s;
+  margin: 10px 10px 20px 30px;
+  padding: 12px;
+  text-decoration: none;
+  color: white;
+  display: block;
+  transition: 0.3s;
+  background-color: #464545;
+  border: none;
+  border-bottom: 2px solid #E2D535;
 }
 
 /* When you mouse over the navigation links, change their color */

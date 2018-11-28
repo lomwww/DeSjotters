@@ -38,7 +38,11 @@ request('https://geodata.antwerpen.be/arcgissql/rest/services/P_Portal/portal_pu
   }
 );
 
-//landing page
+
+app.get("/", function(req, res){
+  res.render("home");
+});
+
 app.get("/inlog", function(req, res){
   res.render("inlog");
 });
@@ -47,14 +51,8 @@ app.get("/registratie", function(req, res){
   res.render("registratie");
 });
 
-//next page
 app.get("/reservatie", function(req, res){
   res.render("reservatie");
-});
-
-//
-app.get("/home", function(req, res){
-  res.render("home");
 });
 
 app.get("/wolverine", function(req, res){
