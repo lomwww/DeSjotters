@@ -1,36 +1,96 @@
 <% include head %>
   <% include logo %>
 
+
+
 <form class="formbart" action="index.html" method="post">
+
+<div class="datummaand">
+<h3> datum </h3>
 
   <select class="selectbart" name="DATUM">
 
-  <option value="volvo">Oktober</option>
-  <option value="saab">November</option>
-  <option value="fiat">December</option>
-  <option value="audi">Januari</option>
+  <option value="oktober">Oktober</option>
+  <option value="november">November</option>
+  <option value="december">December</option>
+  <option value="januari">Januari</option>
+  <option value="februari">Februari</option>
+  <option value="maart">Maart</option>
+  <option value="april">April</option>
+  <option value="mei">Mei</option>
+  <option value="juni">Juni</option>
+  <option value="juli">Juli</option>
+  <option value="augustus">Augustus</option>
+  <option value="september">September</option>
 
 </select>
+</div>
 
-<select class="getal2" name="GETAL2">
+<div class="beginuur">
+<h3> begin uur </h3>
 
-<option value="1">1</option>
-<option value="2">2</option>
-<option value="3">3</option>
-<option value="4">4</option>
+<select class="getal" name="getal">
+
+<option value="0">12:00</option>
+<option value="1">13:00</option>
+<option value="2">14:00</option>
+<option value="3">15:00</option>
+<option value="4">16:00</option>
+<option value="5">17:00</option>
+<option value="6">18:00</option>
+<option value="7">19:00</option>
+<option value="8">20:00</option>
+<option value="9">21:00</option>
+<option value="10">22:00</option>
 
 </select>
+</div>
 
-<select class="getal2" name="GETAL2">
+<div class="einduur">
+<h3> eind uur </h3>
 
-<option value="1">1</option>
-<option value="2">2</option>
-<option value="3">3</option>
-<option value="4">4</option>
+<select class="getal2" name="getal2">
+
+  <option value="0a">12:00</option>
+  <option value="1a">13:00</option>
+  <option value="2a">14:00</option>
+  <option value="3a">15:00</option>
+  <option value="4a">16:00</option>
+  <option value="5a">17:00</option>
+  <option value="6a">18:00</option>
+  <option value="7a">19:00</option>
+  <option value="8a">20:00</option>
+  <option value="9a">21:00</option>
+  <option value="10a">22:00</option>
 
 </select>
+</div>
 
+<div class="aantalpersonen">
+<h3> aantal personen </h3>
 
+<select class="personen" name="personen">
+
+<option value="1b">1</option>
+<option value="2b">2</option>
+<option value="3b">3</option>
+<option value="4b">4</option>
+<option value="5b">5</option>
+<option value="6b">6</option>
+<option value="7b">7</option>
+<option value="8b">8</option>
+<option value="9b">9</option>
+<option value="10b">10</option>
+<option value="10plusb">+10</option>
+
+</select>
+</div>
+
+<div class="informatie">
+<h3> extra informatie </h3>
+
+  <input class="inputreservatie" type="text" name="extra" value="">
+</div>
 
 </form>
 

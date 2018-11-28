@@ -10,6 +10,14 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  font-size: 15px;
+  color: white;
+  margin-left: 55px;
+  padding: 10px;
+  text-align: left;
+}
+
 .logo {
   max-width: 50%;
 }
@@ -89,23 +97,63 @@ input {
 
 .formbart {
  color: white;
- display: block;
+ grid-template-columns: auto auto;
+ grid-gap: 10px;
+ display: grid;
  margin: 0 auto;
+
 }
 
+
+
+.datummaand {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+
+.aantalpersonen {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+.informatie {
+  grid-column-start: 1;
+  grid-column-end: 3;
+
+}
+
+.inputreservatie {
+  width: 250px;
+  margin-left: 60px;
+}
+
+.datummaand, .aantalpersonen, .beginuur, .einduur, .informatie {
+}
 
 select {
  color: black;
  background-color: white;
  width: 250px;
  height: 30px;
- display: block;
+ display: grid;
  margin: 0 auto;
- text-align: center;
+ text-align: left;
  text-decoration: none;
- margin-bottom: 30px;
-
 }
+
+.getal {
+  width: 120px;
+  float: right;
+}
+
+.getal2 {
+  width: 115px;
+  float: left;
+}
+
+
+
 
 
 
