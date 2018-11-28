@@ -1,0 +1,21 @@
+<% include head %>
+<% include logo %>
+
+<% for (var i = 0; i < zalen.features.length; i++) { %>
+
+  <div class="">
+    <header>
+      <h1>Zaal:</h1>
+      <h2><%-zalen.features[i].attributes.naam %></h2>
+    </header>
+    <section>
+      <p>coord: <%-zalen.features[i].geometry.y %> <%-scholen.features[i].geometry.x %></p>
+    </section>
+    <footer>
+      <small><%- zalen.features[i].attributes.straat %> <%- scholen.features[i].attributes.huisnummer %></small>
+    </footer>
+  </div>
+
+<% } %>
+
+<% include footer %>
