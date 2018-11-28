@@ -80,27 +80,41 @@ input {
 
 }
 
+
+
+
+
+
+
+
 .formbart {
  color: white;
- border: 1px solid black;
  display: block;
  margin: 0 auto;
-
 }
 
 
-.selectbart {
+select {
  color: black;
  background-color: white;
  width: 250px;
  height: 30px;
- border: 1px solid black;
  display: block;
  margin: 0 auto;
  text-align: center;
  text-decoration: none;
+ margin-bottom: 30px;
 
 }
+
+
+
+
+
+
+
+
+
 
 .boxGilles{
   background-color: #464545;
