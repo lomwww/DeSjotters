@@ -39,7 +39,8 @@ request('https://geodata.antwerpen.be/arcgissql/rest/services/P_Portal/portal_pu
   }
 );
 
-app.get('/probeer', function(req, res){
+
+app.get('/zalenLom', function(req, res){
   res.render('zalenLom', {
     zalen: data
   });
