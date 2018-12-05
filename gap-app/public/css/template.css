@@ -23,10 +23,6 @@ a {
   text-decoration: none;
 }
 
-.zaal {
-  background: url(<%-zalen.features[i].attributes.image %>)
-}
-
 .logo {
   max-width: 50%;
 }
@@ -88,16 +84,13 @@ a {
 input {
   background-color: #221E1F;
   color: white;
-
 }
-
 
 .menuWeg {
   margin-top: 20px;
   width: 120%;
   height: 120%;
 }
-
 
 .gridZalen {
   margin: 200px 40px 0 40px;
@@ -108,13 +101,12 @@ input {
   grid-row-gap: 25px;
 }
 
-.fotozalen {
+.zalenDiv {
   font-size: 10px;
   width: 120px;
   height: 120px;
   background-color: red;
   border-bottom: 10px solid #E2D535;
-  justify-content: center;
 }
 
 
@@ -311,3 +303,4 @@ select {
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
+}
