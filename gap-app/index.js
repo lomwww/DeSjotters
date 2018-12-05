@@ -24,20 +24,28 @@ app.listen(3000, function() {
 
 console.log("Webserver draait");
 
-
-request('https://geodata.antwerpen.be/arcgissql/rest/services/P_Portal/portal_publiek/MapServer/636/query?where=1%3D1&outFields=id,naam,straat,huisnummer,postcode&outSR=4326&f=json',
+var data;
+request('https://geodata.antwerpen.be/arcgissql/rest/services/P_Portal/portal_publiek/MapServer/643/query?where=1%3D1&outFields=naam,straat,huisnummer,postcode,district,OBJECTID,id&outSR=4326&f=json',
   function(error, response, body){
-    var data = JSON.parse(body);
+    data = JSON.parse(body);
 
     for(var i=0; i < data.features.length; i++) {
-        console.log("naam: " + data.features[i].attributes.naam);
+        /*console.log("naam: " + data.features[i].attributes.naam);
         console.log("coord: " + data.features[i].geometry.x + ", " + data.features[i].geometry.y);
-        console.log("");
+        console.log("");*/
+        console.log(data.features[i].attributes);
     }
 
   }
 );
 
+
+app.get('/zalenLom', function(req, res){
+  res.render('zalenLom', {
+    zalen: data,
+    extra: eigenjson
+  });
+});
 
 app.get("/", function(req, res){
   res.render("home");
@@ -67,16 +75,8 @@ app.get("/uitlegdrie", function(req, res){
   res.render("uitlegdrie");
 });
 
-app.get("/supergirl", function(req, res){
-  res.render("supergirl");
-});
-
-app.get("/chucky", function(req, res){
-  res.render("chucky");
-});
-
-app.get("/top", function(req, res){
-  res.render("top");
+app.get("/zalenBart", function(req, res){
+  res.render("zalenBart");
 });
 
 app.get("/uitleg", function(req, res){
@@ -89,4 +89,8 @@ app.get("/upcoming", function(req, res){
 
 app.get("/zalen", function(req, res){
   res.render("zalen");
+});
+
+app.get("/informatie", function(req, res){
+  res.render("informatie");
 });

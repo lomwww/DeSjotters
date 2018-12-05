@@ -36,8 +36,9 @@
       },
       {
         "zondag":[{ "Start": "1030", "Finish": "2000" }]
-      }
-    ]
+      },
+    ],
+    "images":"/images/sporthallen/extratime.png"
   },
 
   {"type":"Feature",

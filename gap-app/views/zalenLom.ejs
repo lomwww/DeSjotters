@@ -1,0 +1,19 @@
+<% include head %>
+
+<% include logoKlein %>
+
+<% include sidebar %>
+
+<div class="grid">
+
+<% for (var i = 0; i < zalen.features.length; i++) { %>
+
+  <div class="fotozalen">
+      <p class="zaalNaam"><%-zalen.features[i].attributes.naam %></p>
+  </div>
+
+<% } %>
+
+</div>
+
+<% include footer %>
