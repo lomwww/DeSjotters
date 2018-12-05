@@ -1,18 +1,19 @@
 <% include head %>
 
-<% include logoKlein %>
+<% include logo %>
 
 <% include sidebar %>
 
-<div class="grid">
+<div class="gridZalen">
 
 <% for (var i = 0; i < zalen.features.length; i++) { %>
 
-  <a href="uitlegZalen">
-    <div class="fotozalen">
-      <p class="zaalNaam"><%-zalen.features[i].attributes.naam %></p>
-    </div>
-  </a>
+
+    <a href="uitlegZalen">
+      <div class="zalenDiv">
+        <p class="zaalNaam"><%-zalen.features[i].attributes.naam %></p>
+      </div>
+    </a>
 
 <% } %>
 

@@ -23,24 +23,8 @@ a {
   text-decoration: none;
 }
 
-.zaal {
-  background: url(<%-zalen.features[i].attributes.image %>)
-}
-
 .logo {
   max-width: 50%;
-}
-
-.logoLom {
-  max-width: 40%;
-  display: block;
-  margin: 50px auto;
-}
-
-.logoKlein {
-  max-width: 20%;
-  display: block;
-  margin: 30px auto auto 250px;
 }
 
 .homeDiv {
@@ -100,15 +84,39 @@ a {
 input {
   background-color: #221E1F;
   color: white;
-
 }
-
 
 .menuWeg {
   margin-top: 20px;
   width: 120%;
   height: 120%;
 }
+
+.gridZalen {
+  margin: 200px 40px 0 40px;
+  height: auto;
+  border: 1px solid yellow;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-row-gap: 25px;
+}
+
+.zalenDiv {
+  font-size: 10px;
+  width: 120px;
+  height: 120px;
+  background-color: red;
+  border-bottom: 10px solid #E2D535;
+}
+
+
+
+
+
+
+
+
+
 
 
 
@@ -204,23 +212,6 @@ select {
   margin-right: 125px;
 }
 
-.fotozalen {
-  font-size: 10px;
-  width: 120px;
-  height: 120px;
-  background-color: red;
-  border-bottom: 10px solid #E2D535;
-  justify-content: center;
-}
-
-.grid {
-  margin: 200px 40px 0 40px;
-  height: auto;
-  border: 1px solid yellow;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-row-gap: 25px;
-}
 
 .zaalNaam {
   margin-top: 120px;
@@ -312,6 +303,7 @@ select {
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
+<<<<<<< HEAD
   }
 
 
@@ -361,4 +353,6 @@ h1{
 .informatieweg{
 margin-left: 130px;
 margin-top: 50px;
+=======
+>>>>>>> 7e63c5cc9b4b444001281f0dba36f17cf2faf23d
 }
