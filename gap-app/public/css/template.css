@@ -222,7 +222,7 @@ select {
 
 }
 .boldivGilles{
-  margin-left: 125px;
+  margin-left: 100px;
   margin-right: 125px;
 }
 
@@ -302,3 +302,10 @@ select {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
 }
+
+.openbtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;

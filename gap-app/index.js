@@ -55,8 +55,8 @@ app.get("/reservatie", function(req, res){
   res.render("reservatie");
 });
 
-app.get("/wolverine", function(req, res){
-  res.render("wolverine");
+app.get("/uitlegwelkom", function(req, res){
+  res.render("uitlegwelkom");
 });
 
 app.get("/uitlegtwee", function(req, res){
