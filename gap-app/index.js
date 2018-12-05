@@ -75,6 +75,10 @@ app.get("/reservatie", function(req, res){
   res.render("reservatie");
 });
 
+app.get("/uitlegwelkom", function(req, res){
+  res.render("uitlegwelkom");
+});
+
 app.get("/uitlegtwee", function(req, res){
   res.render("uitlegtwee");
 });
@@ -97,4 +101,8 @@ app.get("/upcoming", function(req, res){
 
 app.get("/zalen", function(req, res){
   res.render("zalen");
+});
+
+app.get("/informatie", function(req, res){
+  res.render("informatie");
 });
