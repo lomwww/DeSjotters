@@ -1,10 +1,18 @@
 {
-125590: {
-  'openingsuren': {},
-  'afbeelding':
-},
-125591: {
-  'openingsuren': {},
-  'afbeelding': 
-}
+  "sporthallen":[
+    {
+      "id": 285,
+      "afbeelding": "",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "id": 285,
+      "afbeelding": "",
+      "openingsuren": {
+
+      }
+    }
+  ]
 }
