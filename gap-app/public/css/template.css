@@ -301,4 +301,56 @@ select {
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
+<<<<<<< HEAD
+  }
+
+
+.informatiebordGilles{
+
+  background-color: #464545;
+  width: 300px;
+  height: 500px;
+  margin: 0 auto;
+  margin-top: 50px;
+  }
+
+.infoboxGilles{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 auto;
+  padding-top: 20px;
+
+}
+
+h1{
+  color: #E2D535;
+  font-size: 1.5em;
+  padding: 20px;
+}
+
+.dagenGilles{
+  width: 120px;
+  border-right: 2px solid #E2D535;
+  padding-left: 20px;
+  line-height: 20px;
+}
+
+.urenGilles{
+  width: 150px;
+  padding-left: 20px;
+  line-height: 20px;
+}
+
+.adresGilles{
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.informatieweg{
+margin-left: 130px;
+margin-top: 50px;
+=======
+>>>>>>> 7e63c5cc9b4b444001281f0dba36f17cf2faf23d
 }
