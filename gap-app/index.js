@@ -35,15 +35,27 @@ request('https://geodata.antwerpen.be/arcgissql/rest/services/P_Portal/portal_pu
         console.log("");*/
         console.log(data.features[i].attributes);
     }
-
   }
 );
+/*
+var eigen;
+request('data/eigen.json',
+  function (error, responce, body){
+    eigen = JSON.parse(body);
+
+    for(var i=0; i < eigen.features.length; i++) {
+        console.log(eigen.features[i].attributes);
+    }
+  }
+);
+
+*/
 
 
 app.get('/zalenLom', function(req, res){
   res.render('zalenLom', {
     zalen: data,
-    extra: eigenjson
+
   });
 });
 
