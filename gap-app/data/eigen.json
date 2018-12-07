@@ -1,18 +1,194 @@
 {
   "sporthallen":[
     {
-      "id": 285,
-      "afbeelding": "",
+      "OBJECTID": 131083,
+      "afbeelding": "./public/images/allinn.jpg",
       "openingsuren": {
 
       }
     },
     {
-      "id": 285,
-      "afbeelding": "",
+      "OBJECTID": 131410,
+      "afbeelding": "./public/images/Boeckenberg Sportcenter.jpg",
       "openingsuren": {
 
       }
-    }
+    },
+    {
+      "OBJECTID": 131407,
+      "afbeelding": "./public/images/Buurtsportballon.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 131408,
+      "afbeelding": "./public/images/Buurtsporthal IGLO.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 131404,
+      "afbeelding": "./public/images/Buurtsporthal Kiel-Antwerpen.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 130657,
+      "afbeelding": "./public/images/extra time.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 130919,
+      "afbeelding": "./public/images/groenendaalcolleg.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 131053,
+      "afbeelding": "./public/images/Gymhal Terlinden.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 131054,
+      "afbeelding": "./public/images/Ijsbaan Ruggeveld.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 130822,
+      "afbeelding": "./public/images/linkeroever.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 131043,
+      "afbeelding": "./public/images/Schoolsporthal Brilschans.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 131406,
+      "afbeelding": "./public/images/Sportcentrum De Polder.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 130995,
+      "afbeelding": "./public/images/Sportcentrum Het Rooi.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 131003,
+      "afbeelding": "./public/images/Sporthal Arena.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 131036,
+      "afbeelding": "./public/images/Sporthal De Rode Loop.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 131004,
+      "afbeelding": "./public/images/Sporthal Expo.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 131035,
+      "afbeelding": "./public/images/Sporthal Fort VIII.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 130991,
+      "afbeelding": "./public/images/Sporthal Heilig Pius X - Instituut.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 130817,
+      "afbeelding": "./public/images/sporthal kiel.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 130819,
+      "afbeelding": "./public/images/sporthal luchtbal.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 130997,
+      "afbeelding": "./public/images/Sporthal Luisbekelaar.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 131007,
+      "afbeelding": "./public/images/Sporthal Notelaar.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 131000,
+      "afbeelding": "./public/images/Sporthal Plantin Moretus.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 131008,
+      "afbeelding": "./public/images/Sporthal Sorghvliedt.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 131005,
+      "afbeelding": "./public/images/Sporthal 't Venneke.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 131405,
+      "afbeelding": "./public/images/Sporthal Wilrijkse Plein.jpg",
+      "openingsuren": {
+
+      }
+    },
+    {
+      "OBJECTID": 131051,
+      "afbeelding": "./public/images/Sportzaal Schriek.jpg",
+      "openingsuren": {
+
+      }
+    },
+
   ]
 }
