@@ -8,9 +8,10 @@
 
 <% for (var i = 0; i < zalen.features.length; i++) { %>
 
-    <a href="uitlegZalen">
-      <div class="zalenDiv" style="background-image: url('<%- %>')" >
+    <a href="informatie">
+      <div class="zalenDiv" style="background-image: url('<%- mijnInformatie.sporthallen.objectid %>')" >
         <p class="zaalNaam"><%-zalen.features[i].attributes.naam %></p>
+        <p class="zaalNaam"><%-mijnInformatie.sporthallen[i].objectid %></p>
       </div>
     </a>
 
