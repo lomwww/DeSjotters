@@ -18,7 +18,7 @@ app.set("view engine", "ejs");
 
 app.use(express.static('public'));
 
-app.listen(3000, function() {
+app.listen(8000, function() {
   console.log('Node luistert op poort 3000');
 });
 
