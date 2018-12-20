@@ -7,14 +7,17 @@
 <div class="gridZalen">
 
 <% for (var i = 0; i < zalen.features.length; i++) { %>
-
+<div class="">
     <a href="informatie">
-      <div class="zalenDiv" style="background-image: url('<%- mijnInformatie.sporthallen.objectid %>')" >
+      <div class="zalenDiv" style="background-image: url('images/sporthallen/<%-zalen.features[i].attributes.OBJECTID %>.jpg')" >
+
+      </div>
+      <div class="geel">
         <p class="zaalNaam"><%-zalen.features[i].attributes.naam %></p>
-        <p class="zaalNaam"><%-mijnInformatie.sporthallen[i].objectid %></p>
       </div>
     </a>
 
+</div>
 <% } %>
 
 </div>
