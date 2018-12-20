@@ -8,16 +8,11 @@
 
 <% for (var i = 0; i < zalen.features.length; i++) { %>
 
-<<<<<<< HEAD
 
-    <a href="uitlegZalen">
-      <div class="zalenDiv" style="background-image: url('images/sporthallen/<%-zalen.features[i].attributes.OBJECTID %>.jpg')">
-=======
+
     <a href="informatie">
-      <div class="zalenDiv" style="background-image: url('<%- mijnInformatie.sporthallen.objectid %>')" >
->>>>>>> efa34c1b8fd936b65604c2c2da498ff4896f60dd
+        <div class="zalenDiv" style="background-image: url('images/sporthallen/<%-zalen.features[i].attributes.OBJECTID %>.jpg')">
         <p class="zaalNaam"><%-zalen.features[i].attributes.naam %></p>
-        <p class="zaalNaam"><%-mijnInformatie.sporthallen[i].objectid %></p>
       </div>
     </a>
 
