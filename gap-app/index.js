@@ -19,7 +19,7 @@ app.set("view engine", "ejs");
 app.use(express.static('public'));
 
 app.listen(8000, function() {
-  console.log('Node luistert op poort 8000');
+  console.log('Node luistert op poort 3000');
 });
 
 console.log("Webserver draait");
@@ -52,6 +52,7 @@ function jos() {
 app.get('/zalenLom', function(req, res){
   res.render('zalenLom', {
     zalen: data,
+    mijnInformatie: eigenJSON
   });
 });
 

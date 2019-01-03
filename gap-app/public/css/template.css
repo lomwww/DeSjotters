@@ -104,10 +104,7 @@ input {
   width: 135px;
   height: 150px;
   font-size: 10px;
-<<<<<<< HEAD
   opacity: 0.5;
-=======
->>>>>>> a54717f83fa897b7aa5298353c3e91b8f799e6c6
 }
 
 .geel {
@@ -118,20 +115,6 @@ input {
   background-color: #E2D535;
   padding: 5px 0 5px 5px;
 }
-<<<<<<< HEAD
-=======
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> a54717f83fa897b7aa5298353c3e91b8f799e6c6
 
 .formbart {
   color: white;
@@ -225,10 +208,6 @@ select {
 }
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> a54717f83fa897b7aa5298353c3e91b8f799e6c6
 .formbart {
   display: grid;
   grid-template-columns: 1fr 1fr;
